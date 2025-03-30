@@ -59,3 +59,6 @@ Enhanced Customer Experience: Identify pain points and improve hotel services.
 Better Marketing Strategies: Understand customer information sources and optimize marketing efforts.
 Higher Customer Retention: Improve NPS by addressing key concerns of guests.
 Data-Driven Decision Making: Use historical trends to predict future guest behavior.
+
+
+![Screenshot 2025-03-30 121416](https://github.com/user-attachments/assets/c33c3d72-438b-46b6-bc3f-5e9f7caf74dd)
